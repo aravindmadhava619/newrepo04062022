@@ -1,3 +1,7 @@
 first time
 second time
+<<<<<<< HEAD
 five time
+=======
+third time
+>>>>>>> dev
